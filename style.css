@@ -1,1 +1,7 @@
-/*Hello world*\
+/*Hello world*/
+
+body{
+    background-color: black;
+    color: white;
+    font-size: larger;
+}

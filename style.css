@@ -1,5 +1,11 @@
 /*Hello world*/
 
 body{
+    padding: 30px 100px;
     font-size: larger;
+}
+
+.note{
+    color: red;
+    font-size: 25px;
 }
